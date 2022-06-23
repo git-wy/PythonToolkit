@@ -22,8 +22,8 @@ def convert_signature(input_photo, output_name):
 
 if __name__ == '__main__':
 
-    photo = r'DigitalSignature/data/InputPhoto_en.png'
-    signature = r'DigitalSignature/data/OutputSignature_en.png'
+    photo = r'DigitalSignature/data/InputPhoto.png'
+    signature = r'DigitalSignature/data/OutputSignature.png'
 
     convert_signature(photo, signature)
 
