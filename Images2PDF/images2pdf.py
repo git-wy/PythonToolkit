@@ -11,7 +11,7 @@ if __name__ == '__main__':
     pdf_output = r'pdf file'
 
     # image_input = r'E:\Images2PDF\image_input'
-    # pdf_output = r'E:\Image2PDF\output.pdf'
+    # pdf_output = r'E:\Images2PDF\output.pdf'
 
     images = os.listdir(image_input)
 
