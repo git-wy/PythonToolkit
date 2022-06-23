@@ -5,6 +5,13 @@ import cv2
 
 
 def convert_signature(input_photo, output_name):
+    """
+    convert a handwriting photo into a clean digital signature
+
+    :param input_photo: a handwriting photo
+    :param output_name: image name saving the digital signature
+    :return: a clean digital signature saved in output_name
+    """
 
     img = cv2.imread(input_photo, cv2.IMREAD_UNCHANGED)
     size = img.shape
