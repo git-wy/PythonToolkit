@@ -1,16 +1,14 @@
-# 用Python做一些有趣又有用的小事情
+# Using Python to do something interesting and useful
 
 
-## DigitalSignature
+## [DigitalSignature](https://github.com/yingwang-git/PythonToolkit/tree/master/DigitalSignature)
 
-将手写签名拍照转为干净的电子签名
+Convert handwriting images into clean digital signature.
 
-## ImageCrop
+## [ImageCrop](https://github.com/yingwang-git/Python_Toolkit/tree/master/ImageCrop)
 
-1. 图片裁剪
-2. 图片批量裁剪
+Crop all images in a directory.
 
-## Image2PDF
+## [Images2PDF](https://github.com/yingwang-git/Python_Toolkit/tree/master/Images2PDF)
 
-1. 把图片转为 PDF 格式
-2. 把多张图片合并转为 PDF 格式
+Combine all images to one pdf file.

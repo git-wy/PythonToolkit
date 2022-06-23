@@ -1,12 +1,22 @@
-# 图片转为电子签名
+# Convert handwriting image into clean digital signature
 
 
-### 功能：把手写签名拍照转为电子签名
+### Preparation
 
-1. 在白纸上用黑笔签字
-2. 拍照保存图片
-3. 将图片转为干净的电子签名形式
+1. Signing in a white paper using a black pen.
+2. Taking a photo of the handwriting signature.
+3. Using Python to convert the photo into clean signature
 
 
-### 示例
+### Example
 
+Before conversion:  
+
+
+![Before Conversion](https://github.com/yingwang-git/Python_Toolkit/blob/b3f4c8a713990bfa54bc58f045076616330a4d65/DigitalSignature/data/InputPhoto_en.png)
+
+
+After conversion:  
+
+
+![After Conversion]()
