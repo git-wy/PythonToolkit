@@ -1,14 +1,15 @@
-# Using Python to do something interesting and useful
+# Python Toolkit
+**Author**: Wendy WANG  
+**Modified**: 12/30/2024  
 
+## Table of Content
 
-## [DigitalSignature](https://github.com/yingwang-git/PythonToolkit/tree/master/DigitalSignature)
+- [Image Processor](#image-processor)
 
-Convert handwriting images into clean digital signature.
+## Image Processor
 
-## [ImageCrop](https://github.com/yingwang-git/Python_Toolkit/tree/master/ImageCrop)
+> Image processing toolkit
 
-Crop all images in a directory.
-
-## [Images2PDF](https://github.com/yingwang-git/Python_Toolkit/tree/master/Images2PDF)
-
-Combine all images to one pdf file.
+- Resize all images in a folder
+- Combine all images in a folder into a single PDF
+- Convert handwriting into a clear signature
