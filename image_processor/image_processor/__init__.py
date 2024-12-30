@@ -3,6 +3,6 @@
 # Modified: 12/30/2024
 
 from .image2signature import image2signature
-from .image2pdf import images2pdf
-from .resize_images import resize_image
+from .image2pdf import image2pdf
+from .resize_image import resize_image
 

@@ -11,7 +11,7 @@ def resize_image(image_input, image_output, mode='resize',
                  size: tuple[int, int] | None = None,
                  crop_box: tuple[float, float, float, float] | None = None):
     """
-    return resized or cropped images in a folder
+    resize or crop all images into the same size in a folder
 
     :param image_input: a folder saving images to be processed
     :param image_output: a folder saving processed images

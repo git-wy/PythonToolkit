@@ -7,7 +7,7 @@ import os
 from PIL import Image
 
 
-def images2pdf(image_input, pdf_output):
+def image2pdf(image_input, pdf_output):
     """
     combine all images in a folder and convert them to one pdf file
 
@@ -31,4 +31,4 @@ if __name__ == '__main__':
     my_image_input = r'../image_input_folder/'
     my_pdf_output = r'../my_pdf_output.pdf'
 
-    images2pdf(my_image_input, my_pdf_output)
+    image2pdf(my_image_input, my_pdf_output)
